@@ -2,7 +2,7 @@ module github.com/lspaccatrosi16/bupload
 
 go 1.21
 
-require github.com/lspaccatrosi16/go-cli-tools v0.3.5
+require github.com/lspaccatrosi16/go-cli-tools v0.3.6
 
 require (
 	cloud.google.com/go v0.110.2 // indirect

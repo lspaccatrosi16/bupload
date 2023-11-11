@@ -137,8 +137,8 @@ github.com/jmespath/go-jmespath/internal/testify v1.5.1 h1:shLQSRRSCCPj3f2gpwzGw
 github.com/jmespath/go-jmespath/internal/testify v1.5.1/go.mod h1:L3OGu8Wl2/fWfCI6z80xFu9LTZmf1ZRjMHUOPmWr69U=
 github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f h1:dKccXx7xA56UNqOcFIbuqFjAWPVtP688j5QMgmo6OHU=
 github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f/go.mod h1:4rEELDSfUAlBSyUjPG0JnaNGjf13JySHFeRdD/3dLP0=
-github.com/lspaccatrosi16/go-cli-tools v0.3.5 h1:T1+VLaDNWYAmqeWtznXDpHagmS8OU6AkVEnO0DcvGsg=
-github.com/lspaccatrosi16/go-cli-tools v0.3.5/go.mod h1:ppOT+F1t4THNKFcvLjED6tVHPZ2Opq4+yZv6aukjR98=
+github.com/lspaccatrosi16/go-cli-tools v0.3.6 h1:Ugkhc68ebOPVD2GBloxO//p9ijxntITE3z7+1bP+tXI=
+github.com/lspaccatrosi16/go-cli-tools v0.3.6/go.mod h1:ppOT+F1t4THNKFcvLjED6tVHPZ2Opq4+yZv6aukjR98=
 github.com/manifoldco/promptui v0.9.0 h1:3V4HzJk1TtXW1MTZMP7mdlwbBpIinw3HztaIlYthEiA=
 github.com/manifoldco/promptui v0.9.0/go.mod h1:ka04sppxSGFAtxX0qhlYQjISsg9mR4GWtQEhdbn6Pgg=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

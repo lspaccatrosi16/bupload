@@ -35,10 +35,6 @@ func main() {
 			Name:  "Download",
 			Value: "d",
 		},
-		{
-			Name:  "New Credentials",
-			Value: "n",
-		},
 	}
 
 	v, err := input.GetSelection("Command", opts)
@@ -50,8 +46,6 @@ func main() {
 		err = upload.Upload(cred)
 	case "d":
 		err = download.Download(cred)
-	case "n":
-		_, err = credential.RefreshUserCredentials(util.AppName)
 	}
 
 	handle(err)
